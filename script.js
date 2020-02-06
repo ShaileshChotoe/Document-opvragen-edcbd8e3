@@ -1,0 +1,1 @@
+document.write('locaction: ' + document.location + "Doctype: " + document.doctype + "Title: " + document.title);
